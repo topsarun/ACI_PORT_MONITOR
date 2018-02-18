@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\bin\Release\ACI_PORT_MONITOR.exe.config
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\bin\Release\ACI_PORT_MONITOR.exe
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\bin\Release\ACI_PORT_MONITOR.pdb
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\bin\Release\MetroFramework.dll
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\bin\Release\RestSharp.dll
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\bin\Release\SnmpSharpNet.dll
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\bin\Release\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\bin\Release\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\obj\Release\ACI_PORT_MONITOR.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\obj\Release\ACI_PORT_MONITOR.Form1.resources
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\obj\Release\ACI_PORT_MONITOR.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\obj\Release\ACI_PORT_MONITOR.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\obj\Release\ACI_PORT_MONITOR.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\obj\Release\ACI_PORT_MONITOR.exe
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR\ACI_PORT_MONITOR\obj\Release\ACI_PORT_MONITOR.pdb
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\bin\Release\ACI_PORT_MONITOR.exe.config
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\bin\Release\ACI_PORT_MONITOR.exe
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\bin\Release\ACI_PORT_MONITOR.pdb
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\bin\Release\MetroFramework.dll
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\bin\Release\RestSharp.dll
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\bin\Release\SnmpSharpNet.dll
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\bin\Release\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\bin\Release\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\obj\Release\ACI_PORT_MONITOR.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\obj\Release\ACI_PORT_MONITOR.Form1.resources
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\obj\Release\ACI_PORT_MONITOR.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\obj\Release\ACI_PORT_MONITOR.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\obj\Release\ACI_PORT_MONITOR.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\obj\Release\ACI_PORT_MONITOR.exe
+C:\Users\Administrator\Desktop\ACI_PORT_MONITOR - Copy\ACI_PORT_MONITOR\obj\Release\ACI_PORT_MONITOR.pdb
